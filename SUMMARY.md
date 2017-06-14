@@ -1,4 +1,6 @@
 # Summary
 
-* [Intro to HTML](/html.md)
-* [CSS Basics](/css.md)
+* Intro to HTML
+    * [Lesson](/html/lesson.md)
+* CSS Basics    
+    * [Lesson](/css/lesson.md)
