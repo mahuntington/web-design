@@ -1,8 +1,4 @@
 # Summary
 
-* [First Chapter](chapter1.md)
-* Main Topic
-  * [Sub Topic](/chapter2.md)
-
-
-
+* [Intro to HTML](/html.md)
+* [CSS Basics](/css.md)
